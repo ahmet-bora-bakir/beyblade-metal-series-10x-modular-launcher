@@ -14,8 +14,7 @@ This repository contains the **visual design files** for a high-performance modu
 **The files provided in this repository are for visual inspection and display purposes only.**
 
 * These models have been processed into "shells" to hide sensitive mechanical details and precise internal tolerances.
-* The uploaded files are **not optimized for 3D printing** and do not include the internal gear assembly or the final manufacturing blueprints.
-* I am currently evaluating **patent / commercial protection** for the specific 10x gear arrangement and the modular locking mechanism.
+* You should print 5 piece of "beyblade launcher (10x)-1.5 rev-up".
 
 ## License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
